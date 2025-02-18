@@ -3,12 +3,100 @@
   "WorkspaceRootPath": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\controllers\\signupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\controllers\\signupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\model\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\model\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\model\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\model\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\shop-food.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\shop-food.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|d:\\m\u00F4n h\u1ECDc\\angular\\project\\shop-food\\shop-food\\migrations\\20250217111640_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642008E-8659-4E7C-8A43-1154414F282C}|SHOP-FOOD\\SHOP-FOOD.csproj|solutionrelative:shop-food\\migrations\\20250217111640_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Migrations\\20250217111147_InitialCreates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SHOP-FOOD\\Migrations\\20250217111147_InitialCreates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +106,305 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FoodController.cs",
-              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\FoodController.cs",
-              "RelativeDocumentMoniker": "SHOP-FOOD\\Controllers\\FoodController.cs",
-              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\FoodController.cs",
-              "RelativeToolTip": "SHOP-FOOD\\Controllers\\FoodController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T01:59:19.054Z"
+              "WhenOpened": "2025-02-18T16:53:39.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignupsController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\SignupsController.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Controllers\\SignupsController.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\SignupsController.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Controllers\\SignupsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:43:18.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginsController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\LoginsController.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Controllers\\LoginsController.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\LoginsController.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Controllers\\LoginsController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:42:53.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeedbacksController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\FeedbacksController.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Controllers\\FeedbacksController.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\FeedbacksController.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Controllers\\FeedbacksController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:42:33.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:42:11.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:41:33.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:41:06.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:40:43.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250217111640_InitialCreate.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Migrations\\20250217111640_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Migrations\\20250217111640_InitialCreate.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Migrations\\20250217111640_InitialCreate.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Migrations\\20250217111640_InitialCreate.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:16:41.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SHOP-FOOD\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T11:16:00.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:12:18.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250217111147_InitialCreates.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Migrations\\20250217111147_InitialCreates.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Migrations\\20250217111147_InitialCreates.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Migrations\\20250217111147_InitialCreates.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Migrations\\20250217111147_InitialCreates.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:11:47.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\WeatherForecast.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\WeatherForecast.cs",
+              "RelativeToolTip": "SHOP-FOOD\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:54:16.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\appsettings.json",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\appsettings.json",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\appsettings.json",
+              "RelativeToolTip": "SHOP-FOOD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T07:41:29.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SHOP-FOOD.csproj",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\SHOP-FOOD.csproj",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\SHOP-FOOD.csproj",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\SHOP-FOOD.csproj",
+              "RelativeToolTip": "SHOP-FOOD\\SHOP-FOOD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T08:39:21.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:06:19.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Model\\Signup.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Model\\Signup.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Model\\Signup.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Model\\Signup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:04:31.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Model\\Login.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Model\\Login.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Model\\Login.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Model\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:03:59.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Model\\Feedback.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Model\\Feedback.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Model\\Feedback.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Model\\Feedback.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:03:41.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Model\\OrderDetail.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Model\\OrderDetail.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Model\\OrderDetail.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:03:24.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Model\\Order.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Model\\Order.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Model\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:03:12.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Model\\Product.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Model\\Product.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Model\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:02:59.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Model\\User.cs",
+              "RelativeDocumentMoniker": "SHOP-FOOD\\Model\\User.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Model\\User.cs",
+              "RelativeToolTip": "SHOP-FOOD\\Model\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:02:42.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Program.cs",
               "RelativeDocumentMoniker": "SHOP-FOOD\\Program.cs",
               "ToolTip": "D:\\M\u00F4n h\u1ECDc\\Angular\\Project\\SHOP-FOOD\\SHOP-FOOD\\Program.cs",
               "RelativeToolTip": "SHOP-FOOD\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T01:58:06.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T01:58:06.641Z"
             }
           ]
         }
